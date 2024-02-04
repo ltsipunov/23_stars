@@ -17,5 +17,5 @@
 - temperature_of_stars.ipynb - only project file
 
 ## Result
-- Several neural networks with a few hidden levels were tested and compared. 
-- After fine parameters tuning, the best model achived RMSE=3700 (r2=0.83) 
+- Several neural networks with a few hidden levels tested and compared. 
+- After fine parameters tuning, the best model achieved RMSE=3700 (r2=0.83) 
